@@ -1,0 +1,15 @@
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\bin\Debug\net6.0\RabbitMq.direct.subscriber.exe
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\bin\Debug\net6.0\RabbitMq.direct.subscriber.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\bin\Debug\net6.0\RabbitMq.direct.subscriber.runtimeconfig.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\bin\Debug\net6.0\RabbitMq.direct.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\bin\Debug\net6.0\RabbitMq.direct.subscriber.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\refint\RabbitMq.direct.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\RabbitMq.direct.subscriber.genruntimeconfig.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\direct\RabbitMq.direct.subscriber\obj\Debug\net6.0\ref\RabbitMq.direct.subscriber.dll

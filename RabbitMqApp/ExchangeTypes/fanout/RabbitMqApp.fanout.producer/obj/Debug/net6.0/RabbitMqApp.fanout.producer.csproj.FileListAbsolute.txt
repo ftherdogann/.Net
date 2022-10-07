@@ -1,0 +1,17 @@
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\bin\Debug\net6.0\RabbitMqApp.fanout.producer.exe
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\bin\Debug\net6.0\RabbitMqApp.fanout.producer.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\bin\Debug\net6.0\RabbitMqApp.fanout.producer.runtimeconfig.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\bin\Debug\net6.0\RabbitMqApp.fanout.producer.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\bin\Debug\net6.0\RabbitMqApp.fanout.producer.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.csproj.CopyComplete
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\refint\RabbitMqApp.fanout.producer.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\RabbitMqApp.fanout.producer.genruntimeconfig.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.producer\obj\Debug\net6.0\ref\RabbitMqApp.fanout.producer.dll

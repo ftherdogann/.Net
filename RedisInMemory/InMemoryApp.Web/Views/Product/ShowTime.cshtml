@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "ShowTime";
+    Product p = ViewBag.product as Product; // as: cast edebilirse nesneyi cast edemezse 
+                                            //null döner. is: nesneye dönüştürlüp dönüştürülemeyeceğini test eder.geriye true false döner
+}
+<h1>ShowTime</h1>
+<h1>@ViewBag.time</h1>
+<h2>@ViewBag.callback</h2>
+
+<h3> @p.Id => @p.Name => @p.Price</h3>

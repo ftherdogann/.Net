@@ -1,0 +1,12 @@
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\bin\Debug\net6.0\Shared.dll
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\bin\Debug\net6.0\Shared.pdb
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.dll
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\Shared.pdb
+D:\FATİH\TFSWork\RabbitMqApp\CreateExcelFromData\Shared\obj\Debug\net6.0\ref\Shared.dll

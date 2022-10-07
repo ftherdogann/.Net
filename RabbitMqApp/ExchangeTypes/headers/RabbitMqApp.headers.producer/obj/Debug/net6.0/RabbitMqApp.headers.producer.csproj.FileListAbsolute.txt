@@ -1,0 +1,17 @@
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\bin\Debug\net6.0\RabbitMqApp.headers.producer.exe
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\bin\Debug\net6.0\RabbitMqApp.headers.producer.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\bin\Debug\net6.0\RabbitMqApp.headers.producer.runtimeconfig.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\bin\Debug\net6.0\RabbitMqApp.headers.producer.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\bin\Debug\net6.0\RabbitMqApp.headers.producer.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.csproj.CopyComplete
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\refint\RabbitMqApp.headers.producer.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\RabbitMqApp.headers.producer.genruntimeconfig.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\headers\RabbitMqApp.headers.producer\obj\Debug\net6.0\ref\RabbitMqApp.headers.producer.dll

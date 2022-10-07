@@ -1,0 +1,237 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fanout", "fanout", "{60ECE41A-D93F-497A-82C4-70BDA3192663}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExchangeTypes", "ExchangeTypes", "{FD54F350-EB49-46F1-B795-F38825BF00F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.fanout.producer", "ExchangeTypes\fanout\RabbitMqApp.fanout.producer\RabbitMqApp.fanout.producer.csproj", "{B25B7D48-D35A-4306-88BE-76236A826991}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.fanout.subscriber", "ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\RabbitMqApp.fanout.subscriber.csproj", "{8223A87C-1E3F-4A16-9B3B-E490C1B1DF77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "direct", "direct", "{EDD554F8-10D0-4EE1-9A1A-FA9F4179FD49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "topic", "topic", "{3A8DF5CC-C8AF-4328-9126-46A7A09CF6A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "headers", "headers", "{97EC90BD-1796-4188-A530-FB87891F5473}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "default", "default", "{DBA2C556-4416-4991-A2AE-DEADADAC38A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.default.producer", "ExchangeTypes\default\RabbitMqApp.default.producer\RabbitMqApp.default.producer.csproj", "{ADA1839A-61C1-4D9C-9314-86376E26A335}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.default.subscriber", "ExchangeTypes\default\RabbitMqApp.default.subscriber\RabbitMqApp.default.subscriber.csproj", "{84CE1A48-DDBB-4B7A-B2C4-95768015C20C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.direct.producer", "ExchangeTypes\direct\RabbitMqApp.direct.producer\RabbitMqApp.direct.producer.csproj", "{FE48BC75-9FB1-45B1-9C23-4F25D063DE26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.direct.subscriber", "ExchangeTypes\direct\RabbitMq.direct.subscriber\RabbitMqApp.direct.subscriber.csproj", "{952EA9DC-B70B-4255-AA1B-729CF7810798}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.topic.producer", "ExchangeTypes\topic\RabbitMqApp.topic.producer\RabbitMqApp.topic.producer.csproj", "{1EFE87CD-FE7F-4148-ADBC-209E9C61D8D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.topic.subscriber", "ExchangeTypes\topic\RabbitMqApp.topic.subscriber\RabbitMqApp.topic.subscriber.csproj", "{BD9DCBDB-C22E-4248-9D64-F3EA9C6C2F95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.headers.producer", "ExchangeTypes\headers\RabbitMqApp.headers.producer\RabbitMqApp.headers.producer.csproj", "{4D03FEE5-C1A4-4C56-889B-F6DB48694F4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.headers.subscriber", "ExchangeTypes\headers\RabbitMqApp.headers.subscriber\RabbitMqApp.headers.subscriber.csproj", "{BE32A61D-32D3-48CB-9FEA-8263029C9039}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComplexTypeSend", "ComplexTypeSend", "{7A9556CF-4B04-465E-A673-963AD64CE874}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.complextype.producer", "ComplexTypeSend\RabbitMqApp.complextype.producer\RabbitMqApp.complextype.producer.csproj", "{AD998BD3-4DEC-4366-B0E4-B8364750361C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.complextype.subscriber", "ComplexTypeSend\RabbitMqApp.complextype.subscriber\RabbitMqApp.complextype.subscriber.csproj", "{0787D116-F036-4BDF-AE4A-9E8A915C368C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.complextype.shared", "ComplexTypeSend\RabbitMqApp.complextype.shared\RabbitMqApp.complextype.shared.csproj", "{B71CB813-11E4-40E1-B020-80DE31C6EAA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImageWatermarkProcess", "ImageWatermarkProcess", "{8C27FA18-2DC6-489E-8A65-B4092A785A9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqApp.Imagewatermarkprocess", "ImageWatermarkProcess\RabbitMqApp.Imagewatermarkprocess\RabbitMqApp.Imagewatermarkprocess.csproj", "{1A827B58-22E3-4D85-A399-6E83846DB7D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreateExcelFromData", "CreateExcelFromData", "{CC0BC214-00CD-4DC6-9639-143E813CA2F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelCreate", "CreateExcelFromData\ExcelCreate\ExcelCreate.csproj", "{B3CF6822-E2AD-42DD-B77C-392FB34BF56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "CreateExcelFromData\Shared\Shared.csproj", "{41EFA861-EF48-47DB-84A8-06C491001B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCreateWorkerService", "CreateExcelFromData\FileCreateWorkerService\FileCreateWorkerService.csproj", "{0A1B5741-E9E8-4C8E-96D2-AF6138C01E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25B7D48-D35A-4306-88BE-76236A826991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25B7D48-D35A-4306-88BE-76236A826991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25B7D48-D35A-4306-88BE-76236A826991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25B7D48-D35A-4306-88BE-76236A826991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8223A87C-1E3F-4A16-9B3B-E490C1B1DF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8223A87C-1E3F-4A16-9B3B-E490C1B1DF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8223A87C-1E3F-4A16-9B3B-E490C1B1DF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8223A87C-1E3F-4A16-9B3B-E490C1B1DF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA1839A-61C1-4D9C-9314-86376E26A335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA1839A-61C1-4D9C-9314-86376E26A335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA1839A-61C1-4D9C-9314-86376E26A335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA1839A-61C1-4D9C-9314-86376E26A335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CE1A48-DDBB-4B7A-B2C4-95768015C20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CE1A48-DDBB-4B7A-B2C4-95768015C20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CE1A48-DDBB-4B7A-B2C4-95768015C20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CE1A48-DDBB-4B7A-B2C4-95768015C20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE48BC75-9FB1-45B1-9C23-4F25D063DE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE48BC75-9FB1-45B1-9C23-4F25D063DE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE48BC75-9FB1-45B1-9C23-4F25D063DE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE48BC75-9FB1-45B1-9C23-4F25D063DE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952EA9DC-B70B-4255-AA1B-729CF7810798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952EA9DC-B70B-4255-AA1B-729CF7810798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952EA9DC-B70B-4255-AA1B-729CF7810798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952EA9DC-B70B-4255-AA1B-729CF7810798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFE87CD-FE7F-4148-ADBC-209E9C61D8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFE87CD-FE7F-4148-ADBC-209E9C61D8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFE87CD-FE7F-4148-ADBC-209E9C61D8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFE87CD-FE7F-4148-ADBC-209E9C61D8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9DCBDB-C22E-4248-9D64-F3EA9C6C2F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9DCBDB-C22E-4248-9D64-F3EA9C6C2F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9DCBDB-C22E-4248-9D64-F3EA9C6C2F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9DCBDB-C22E-4248-9D64-F3EA9C6C2F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D03FEE5-C1A4-4C56-889B-F6DB48694F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D03FEE5-C1A4-4C56-889B-F6DB48694F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D03FEE5-C1A4-4C56-889B-F6DB48694F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D03FEE5-C1A4-4C56-889B-F6DB48694F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE32A61D-32D3-48CB-9FEA-8263029C9039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE32A61D-32D3-48CB-9FEA-8263029C9039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE32A61D-32D3-48CB-9FEA-8263029C9039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE32A61D-32D3-48CB-9FEA-8263029C9039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD998BD3-4DEC-4366-B0E4-B8364750361C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD998BD3-4DEC-4366-B0E4-B8364750361C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD998BD3-4DEC-4366-B0E4-B8364750361C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD998BD3-4DEC-4366-B0E4-B8364750361C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0787D116-F036-4BDF-AE4A-9E8A915C368C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0787D116-F036-4BDF-AE4A-9E8A915C368C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0787D116-F036-4BDF-AE4A-9E8A915C368C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0787D116-F036-4BDF-AE4A-9E8A915C368C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71CB813-11E4-40E1-B020-80DE31C6EAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71CB813-11E4-40E1-B020-80DE31C6EAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71CB813-11E4-40E1-B020-80DE31C6EAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71CB813-11E4-40E1-B020-80DE31C6EAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A827B58-22E3-4D85-A399-6E83846DB7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A827B58-22E3-4D85-A399-6E83846DB7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A827B58-22E3-4D85-A399-6E83846DB7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A827B58-22E3-4D85-A399-6E83846DB7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CF6822-E2AD-42DD-B77C-392FB34BF56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CF6822-E2AD-42DD-B77C-392FB34BF56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CF6822-E2AD-42DD-B77C-392FB34BF56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CF6822-E2AD-42DD-B77C-392FB34BF56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EFA861-EF48-47DB-84A8-06C491001B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EFA861-EF48-47DB-84A8-06C491001B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EFA861-EF48-47DB-84A8-06C491001B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EFA861-EF48-47DB-84A8-06C491001B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1B5741-E9E8-4C8E-96D2-AF6138C01E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1B5741-E9E8-4C8E-96D2-AF6138C01E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1B5741-E9E8-4C8E-96D2-AF6138C01E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1B5741-E9E8-4C8E-96D2-AF6138C01E35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60ECE41A-D93F-497A-82C4-70BDA3192663} = {FD54F350-EB49-46F1-B795-F38825BF00F6}
+		{B25B7D48-D35A-4306-88BE-76236A826991} = {60ECE41A-D93F-497A-82C4-70BDA3192663}
+		{8223A87C-1E3F-4A16-9B3B-E490C1B1DF77} = {60ECE41A-D93F-497A-82C4-70BDA3192663}
+		{EDD554F8-10D0-4EE1-9A1A-FA9F4179FD49} = {FD54F350-EB49-46F1-B795-F38825BF00F6}
+		{3A8DF5CC-C8AF-4328-9126-46A7A09CF6A6} = {FD54F350-EB49-46F1-B795-F38825BF00F6}
+		{97EC90BD-1796-4188-A530-FB87891F5473} = {FD54F350-EB49-46F1-B795-F38825BF00F6}
+		{DBA2C556-4416-4991-A2AE-DEADADAC38A5} = {FD54F350-EB49-46F1-B795-F38825BF00F6}
+		{ADA1839A-61C1-4D9C-9314-86376E26A335} = {DBA2C556-4416-4991-A2AE-DEADADAC38A5}
+		{84CE1A48-DDBB-4B7A-B2C4-95768015C20C} = {DBA2C556-4416-4991-A2AE-DEADADAC38A5}
+		{FE48BC75-9FB1-45B1-9C23-4F25D063DE26} = {EDD554F8-10D0-4EE1-9A1A-FA9F4179FD49}
+		{952EA9DC-B70B-4255-AA1B-729CF7810798} = {EDD554F8-10D0-4EE1-9A1A-FA9F4179FD49}
+		{1EFE87CD-FE7F-4148-ADBC-209E9C61D8D1} = {3A8DF5CC-C8AF-4328-9126-46A7A09CF6A6}
+		{BD9DCBDB-C22E-4248-9D64-F3EA9C6C2F95} = {3A8DF5CC-C8AF-4328-9126-46A7A09CF6A6}
+		{4D03FEE5-C1A4-4C56-889B-F6DB48694F4D} = {97EC90BD-1796-4188-A530-FB87891F5473}
+		{BE32A61D-32D3-48CB-9FEA-8263029C9039} = {97EC90BD-1796-4188-A530-FB87891F5473}
+		{AD998BD3-4DEC-4366-B0E4-B8364750361C} = {7A9556CF-4B04-465E-A673-963AD64CE874}
+		{0787D116-F036-4BDF-AE4A-9E8A915C368C} = {7A9556CF-4B04-465E-A673-963AD64CE874}
+		{B71CB813-11E4-40E1-B020-80DE31C6EAA1} = {7A9556CF-4B04-465E-A673-963AD64CE874}
+		{1A827B58-22E3-4D85-A399-6E83846DB7D5} = {8C27FA18-2DC6-489E-8A65-B4092A785A9C}
+		{B3CF6822-E2AD-42DD-B77C-392FB34BF56D} = {CC0BC214-00CD-4DC6-9639-143E813CA2F5}
+		{41EFA861-EF48-47DB-84A8-06C491001B12} = {CC0BC214-00CD-4DC6-9639-143E813CA2F5}
+		{0A1B5741-E9E8-4C8E-96D2-AF6138C01E35} = {CC0BC214-00CD-4DC6-9639-143E813CA2F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C4C33F-4B86-4A63-850F-308DB0D7CDED}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 18
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ftherdogan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ExchangeTypes\\default\\RabbitMqApp.default.producer\\RabbitMqApp.default.producer.csproj
+		SccProjectTopLevelParentUniqueName1 = RabbitMqApp.sln
+		SccProjectName1 = ExchangeTypes/default/RabbitMqApp.default.producer
+		SccLocalPath1 = ExchangeTypes\\default\\RabbitMqApp.default.producer
+		SccProjectUniqueName2 = ExchangeTypes\\default\\RabbitMqApp.default.subscriber\\RabbitMqApp.default.subscriber.csproj
+		SccProjectTopLevelParentUniqueName2 = RabbitMqApp.sln
+		SccProjectName2 = ExchangeTypes/default/RabbitMqApp.default.subscriber
+		SccLocalPath2 = ExchangeTypes\\default\\RabbitMqApp.default.subscriber
+		SccProjectUniqueName3 = ExchangeTypes\\direct\\RabbitMqApp.direct.producer\\RabbitMqApp.direct.producer.csproj
+		SccProjectTopLevelParentUniqueName3 = RabbitMqApp.sln
+		SccProjectName3 = ExchangeTypes/direct/RabbitMqApp.direct.producer
+		SccLocalPath3 = ExchangeTypes\\direct\\RabbitMqApp.direct.producer
+		SccProjectUniqueName4 = ExchangeTypes\\fanout\\RabbitMqApp.fanout.producer\\RabbitMqApp.fanout.producer.csproj
+		SccProjectTopLevelParentUniqueName4 = RabbitMqApp.sln
+		SccProjectName4 = ExchangeTypes/fanout/RabbitMqApp.fanout.producer
+		SccLocalPath4 = ExchangeTypes\\fanout\\RabbitMqApp.fanout.producer
+		SccProjectUniqueName5 = ExchangeTypes\\fanout\\RabbitMqApp.fanout.subscriber\\RabbitMqApp.fanout.subscriber.csproj
+		SccProjectTopLevelParentUniqueName5 = RabbitMqApp.sln
+		SccProjectName5 = ExchangeTypes/fanout/RabbitMqApp.fanout.subscriber
+		SccLocalPath5 = ExchangeTypes\\fanout\\RabbitMqApp.fanout.subscriber
+		SccProjectUniqueName6 = ExchangeTypes\\direct\\RabbitMq.direct.subscriber\\RabbitMqApp.direct.subscriber.csproj
+		SccProjectTopLevelParentUniqueName6 = RabbitMqApp.sln
+		SccProjectName6 = ExchangeTypes/direct/RabbitMq.direct.subscriber
+		SccLocalPath6 = ExchangeTypes\\direct\\RabbitMq.direct.subscriber
+		SccProjectUniqueName7 = ExchangeTypes\\topic\\RabbitMqApp.topic.producer\\RabbitMqApp.topic.producer.csproj
+		SccProjectTopLevelParentUniqueName7 = RabbitMqApp.sln
+		SccProjectName7 = ExchangeTypes/topic/RabbitMqApp.topic.producer
+		SccLocalPath7 = ExchangeTypes\\topic\\RabbitMqApp.topic.producer
+		SccProjectUniqueName8 = ExchangeTypes\\topic\\RabbitMqApp.topic.subscriber\\RabbitMqApp.topic.subscriber.csproj
+		SccProjectTopLevelParentUniqueName8 = RabbitMqApp.sln
+		SccProjectName8 = ExchangeTypes/topic/RabbitMqApp.topic.subscriber
+		SccLocalPath8 = ExchangeTypes\\topic\\RabbitMqApp.topic.subscriber
+		SccProjectUniqueName9 = ExchangeTypes\\headers\\RabbitMqApp.headers.producer\\RabbitMqApp.headers.producer.csproj
+		SccProjectTopLevelParentUniqueName9 = RabbitMqApp.sln
+		SccProjectName9 = ExchangeTypes/headers/RabbitMqApp.headers.producer
+		SccLocalPath9 = ExchangeTypes\\headers\\RabbitMqApp.headers.producer
+		SccProjectUniqueName10 = ExchangeTypes\\headers\\RabbitMqApp.headers.subscriber\\RabbitMqApp.headers.subscriber.csproj
+		SccProjectTopLevelParentUniqueName10 = RabbitMqApp.sln
+		SccProjectName10 = ExchangeTypes/headers/RabbitMqApp.headers.subscriber
+		SccLocalPath10 = ExchangeTypes\\headers\\RabbitMqApp.headers.subscriber
+		SccProjectUniqueName11 = ComplexTypeSend\\RabbitMqApp.complextype.producer\\RabbitMqApp.complextype.producer.csproj
+		SccProjectTopLevelParentUniqueName11 = RabbitMqApp.sln
+		SccProjectName11 = ComplexTypeSend/RabbitMqApp.complextype.producer
+		SccLocalPath11 = ComplexTypeSend\\RabbitMqApp.complextype.producer
+		SccProjectUniqueName12 = ComplexTypeSend\\RabbitMqApp.complextype.subscriber\\RabbitMqApp.complextype.subscriber.csproj
+		SccProjectTopLevelParentUniqueName12 = RabbitMqApp.sln
+		SccProjectName12 = ComplexTypeSend/RabbitMqApp.complextype.subscriber
+		SccLocalPath12 = ComplexTypeSend\\RabbitMqApp.complextype.subscriber
+		SccProjectUniqueName13 = ComplexTypeSend\\RabbitMqApp.complextype.shared\\RabbitMqApp.complextype.shared.csproj
+		SccProjectTopLevelParentUniqueName13 = RabbitMqApp.sln
+		SccProjectName13 = ComplexTypeSend/RabbitMqApp.complextype.shared
+		SccLocalPath13 = ComplexTypeSend\\RabbitMqApp.complextype.shared
+		SccProjectUniqueName14 = ImageWatermarkProcess\\RabbitMqApp.Imagewatermarkprocess\\RabbitMqApp.Imagewatermarkprocess.csproj
+		SccProjectTopLevelParentUniqueName14 = RabbitMqApp.sln
+		SccProjectName14 = ImageWatermarkProcess/RabbitMqApp.Imagewatermarkprocess
+		SccLocalPath14 = ImageWatermarkProcess\\RabbitMqApp.Imagewatermarkprocess
+		SccProjectUniqueName15 = CreateExcelFromData\\ExcelCreate\\ExcelCreate.csproj
+		SccProjectTopLevelParentUniqueName15 = RabbitMqApp.sln
+		SccProjectName15 = CreateExcelFromData/ExcelCreate
+		SccLocalPath15 = CreateExcelFromData\\ExcelCreate
+		SccProjectUniqueName16 = CreateExcelFromData\\Shared\\Shared.csproj
+		SccProjectTopLevelParentUniqueName16 = RabbitMqApp.sln
+		SccProjectName16 = CreateExcelFromData/Shared
+		SccLocalPath16 = CreateExcelFromData\\Shared
+		SccProjectUniqueName17 = CreateExcelFromData\\FileCreateWorkerService\\FileCreateWorkerService.csproj
+		SccProjectTopLevelParentUniqueName17 = RabbitMqApp.sln
+		SccProjectName17 = CreateExcelFromData/FileCreateWorkerService
+		SccLocalPath17 = CreateExcelFromData\\FileCreateWorkerService
+	EndGlobalSection
+EndGlobal

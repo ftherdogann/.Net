@@ -1,0 +1,12 @@
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\bin\Debug\net6.0\RabbitMqApp.complextype.shared.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\bin\Debug\net6.0\RabbitMqApp.complextype.shared.dll
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\bin\Debug\net6.0\RabbitMqApp.complextype.shared.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.dll
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\refint\RabbitMqApp.complextype.shared.dll
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\RabbitMqApp.complextype.shared.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ComplexTypeSend\RabbitMqApp.complextype.shared\obj\Debug\net6.0\ref\RabbitMqApp.complextype.shared.dll

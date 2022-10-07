@@ -1,0 +1,16 @@
+﻿int led = 13;  // LEDİN bağlı olduğu pin
+void setup() {              
+    pinMode(led, OUTPUT); 
+  Serial.begin(9600);  
+}
+void loop() {
+  if(Serial.available())   //Eğer seri haberleşme açık olursa alttaki komutlar işleyecek.
+  {int a=Serial.read();    //Seri haberleşme ile okunan verimize a integer değerini verdik.
+  if(a=='1')
+ { digitalWrite(led, HIGH);}  // a, 1 olursa yanacak.
+  
+  else if (a == '0')          // a, 0 olursa sönecek.
+  {digitalWrite(led, LOW);}
+  }
+
+}

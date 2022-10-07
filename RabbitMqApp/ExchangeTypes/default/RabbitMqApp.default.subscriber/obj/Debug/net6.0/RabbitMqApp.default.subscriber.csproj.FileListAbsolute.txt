@@ -1,0 +1,17 @@
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\bin\Debug\net6.0\RabbitMqApp.default.subscriber.exe
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\bin\Debug\net6.0\RabbitMqApp.default.subscriber.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\bin\Debug\net6.0\RabbitMqApp.default.subscriber.runtimeconfig.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\bin\Debug\net6.0\RabbitMqApp.default.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\bin\Debug\net6.0\RabbitMqApp.default.subscriber.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.csproj.CopyComplete
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\refint\RabbitMqApp.default.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\RabbitMqApp.default.subscriber.genruntimeconfig.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\default\RabbitMqApp.default.subscriber\obj\Debug\net6.0\ref\RabbitMqApp.default.subscriber.dll

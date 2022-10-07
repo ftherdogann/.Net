@@ -1,0 +1,17 @@
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\bin\Release\net6.0\RabbitMqApp.fanout.subscriber.exe
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\bin\Release\net6.0\RabbitMqApp.fanout.subscriber.deps.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\bin\Release\net6.0\RabbitMqApp.fanout.subscriber.runtimeconfig.json
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\bin\Release\net6.0\RabbitMqApp.fanout.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\bin\Release\net6.0\RabbitMqApp.fanout.subscriber.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\bin\Release\net6.0\RabbitMQ.Client.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.csproj.AssemblyReference.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.AssemblyInfoInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.AssemblyInfo.cs
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.csproj.CoreCompileInputs.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.csproj.CopyComplete
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\refint\RabbitMqApp.fanout.subscriber.dll
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.pdb
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\RabbitMqApp.fanout.subscriber.genruntimeconfig.cache
+D:\FATİH\TFSWork\RabbitMqApp\ExchangeTypes\fanout\RabbitMqApp.fanout.subscriber\obj\Release\net6.0\ref\RabbitMqApp.fanout.subscriber.dll
