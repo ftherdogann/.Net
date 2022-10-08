@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSharpMergePdf", "PDFSharpMergePdf.csproj", "{AFE349E5-0F5E-418D-8CE5-EEA4296A537D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE349E5-0F5E-418D-8CE5-EEA4296A537D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE349E5-0F5E-418D-8CE5-EEA4296A537D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE349E5-0F5E-418D-8CE5-EEA4296A537D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE349E5-0F5E-418D-8CE5-EEA4296A537D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D7AC34-DA69-4DB9-A8EE-073C58AAB08F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ftherdogan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PDFSharpMergePdf.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
