@@ -1,0 +1,6 @@
+D:\Fatih\TFSWork\TestDrivenDevelopment\TestDrivenDevelopment.App\bin\Debug\TestDrivenDevelopment.Apps.dll
+D:\Fatih\TFSWork\TestDrivenDevelopment\TestDrivenDevelopment.App\bin\Debug\TestDrivenDevelopment.Apps.pdb
+D:\Fatih\TFSWork\TestDrivenDevelopment\TestDrivenDevelopment.App\obj\Debug\TestDrivenDevelopment.Apps.csproj.AssemblyReference.cache
+D:\Fatih\TFSWork\TestDrivenDevelopment\TestDrivenDevelopment.App\obj\Debug\TestDrivenDevelopment.Apps.csproj.CoreCompileInputs.cache
+D:\Fatih\TFSWork\TestDrivenDevelopment\TestDrivenDevelopment.App\obj\Debug\TestDrivenDevelopment.Apps.dll
+D:\Fatih\TFSWork\TestDrivenDevelopment\TestDrivenDevelopment.App\obj\Debug\TestDrivenDevelopment.Apps.pdb
